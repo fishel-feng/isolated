@@ -1,6 +1,8 @@
 # isolated
 A Connect/Express middleware for Enabling cross-origin-isolation.
 
+**If you want to user isolated on koa app, use [koa-isolated](https://www.npmjs.com/package/koa-isolated).**
+
 > Cross-origin isolation enables a web page to use powerful features such as
 SharedArrayBuffer. This article explains how to enable cross-origin
 isolation on your website.
